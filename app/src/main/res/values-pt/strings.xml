@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jogo do Mata</string>
+    <string name="criar_grupo_de_jogadores">Criar grupo de jogadores:</string>
+    <string name="jogador_2">Jogador 2</string>
+    <string name="name">Nome 1</string>
+    <string name="name1">Nome 2</string>
+    <string name="jogador_1">Jogador 1</string>
+    <string name="newName">Nome</string>
+    <string name="newPlayer">Jogador</string>
+    <string name="playersPoints">Pontos dos jogadores:</string>
+    <string name="add">+</string>
+    <string name="remove">-</string>
+    <string name="ballNum">Número da bola</string>
+    <string name="bolas_aleat_rias">Bolas Aleatórias</string>
+    <string name="iniciar_novo_jogo">Iniciar Novo Jogo</string>
+    <string name="iniciar_jogo_antigo">Iniciar Jogo Antigo</string>
+    <string name="remover">Remover</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="saved_games">Jogos Guardados:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="apagar">Apagar</string>
+</resources>

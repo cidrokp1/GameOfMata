@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Game of Mata</string>
+    <string name="jogador_1">Player 1</string>
+    <string name="jogador_2">Player 2</string>
+    <string name="name">Name 1</string>
+    <string name="name1">Name 2</string>
+    <string name="criar_grupo_de_jogadores">Create group of players:</string>
+    <string name="newName">Name</string>
+    <string name="newPlayer">Player</string>
+    <string name="playersPoints">Players points:</string>
+    <string name="ballNum">Ball number</string>
+    <string name="add">+</string>
+    <string name="remove">-</string>
+    <string name="NewGame" translatable="false" />
+    <string name="ranking" translatable="false">Ranking</string>
+    <string name="reset" translatable="false">Reset</string>
+    <string name="new_game" translatable="false">New Game</string>
+    <string name="bolas_aleat_rias">Random Balls</string>
+    <string name="iniciar_novo_jogo">Play New Game</string>
+    <string name="iniciar_jogo_antigo">Play Saved Game</string>
+    <string name="remover">Remove</string>
+    <string name="adicionar">Add Ball</string>
+    <string name="saved_games">Saved Games:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="apagar">Apagar</string>
+</resources>
